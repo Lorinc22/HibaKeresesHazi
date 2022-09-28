@@ -59,4 +59,5 @@ public class MainActivity extends AppCompatActivity {
         editTextInput = findViewById(R.id.editTextInput);
         textViewResult = findViewById(R.id.textViewResult);
     }
+
 }
